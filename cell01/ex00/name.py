@@ -1,3 +1,4 @@
 frist_name="Saranyapat"
 last_name="Kanannueng"
-print(frist_name,last_name)
+whole_name = (last_name+" "+frist_name)
+print(whole_name)
