@@ -1,5 +1,4 @@
 first_name = "Wil"  
-last_name = "42"   
+last_name = "42"    
 
-print(first_name)
-print(last_name)
+print(first_name, last_name)
